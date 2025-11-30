@@ -16,7 +16,21 @@ Users can input their height (in cm) and weight (in kg) to calculate their BMI a
 
 ## 🚀 Live Demo
 
-Add your hosted link here (GitHub Pages / Netlify / Vercel):
+- (https://dipanshudeep.github.io/BMI_calculater/)
+
+
+- <p >
+  <a href="https://dipanshudeep.github.io/BMI_calculater/" 
+     style="text-decoration:none; 
+            padding: 10px 20px; 
+            border: 1px solid white; 
+            color: white; 
+            font-weight: bold; 
+            border-radius: 8px;">
+    Live Demo
+  </a>
+</p>
+
 
 
 ---
